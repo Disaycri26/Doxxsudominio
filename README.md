@@ -1,0 +1,2 @@
+# Doxxsudominio
+Scrip trrmux
