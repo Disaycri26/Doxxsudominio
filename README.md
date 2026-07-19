@@ -33,10 +33,10 @@ resultantes.*
 apt install git -y
 ```
 ```bash
-git clone https://github.com/Euronymou5/Doxxer-Toolkit
+git clone https://github.com/Disaycri26/Doxxsudominio
 ```
 ```bash
-cd Doxxer-Toolkit
+cd Doxxer-dox
 ```
 
 ## Instalacion automatica
